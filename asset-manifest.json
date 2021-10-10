@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://edwarmontano.github.io/csb-uwwiv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://edwarmontano.github.io/csb-uwwiv/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://edwarmontano.github.io/csb-uwwiv/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://edwarmontano.github.io/csb-uwwiv/static/js/runtime-main.b6434349.js",
+    "runtime-main.js.map": "https://edwarmontano.github.io/csb-uwwiv/static/js/runtime-main.b6434349.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://edwarmontano.github.io/csb-uwwiv/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://edwarmontano.github.io/csb-uwwiv/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://edwarmontano.github.io/csb-uwwiv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://edwarmontano.github.io/csb-uwwiv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://edwarmontano.github.io/csb-uwwiv/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6434349.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
